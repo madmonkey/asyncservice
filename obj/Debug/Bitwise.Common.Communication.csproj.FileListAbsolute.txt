@@ -1,5 +1,0 @@
-C:\TFS\Experimental\Shared\BitWise.Common.Communication\bin\Debug\SunGardPS.Communication.dll
-C:\TFS\Experimental\Shared\BitWise.Common.Communication\bin\Debug\SunGardPS.Communication.pdb
-C:\TFS\Experimental\Shared\BitWise.Common.Communication\obj\Debug\Bitwise.Common.Communication.csprojResolveAssemblyReference.cache
-C:\TFS\Experimental\Shared\BitWise.Common.Communication\obj\Debug\SunGardPS.Communication.dll
-C:\TFS\Experimental\Shared\BitWise.Common.Communication\obj\Debug\SunGardPS.Communication.pdb

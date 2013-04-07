@@ -1,4 +1,0 @@
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\bin\Release\SunGardPS.Communication.dll
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\bin\Release\SunGardPS.Communication.pdb
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\obj\Release\SunGardPS.Communication.dll
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\obj\Release\SunGardPS.Communication.pdb

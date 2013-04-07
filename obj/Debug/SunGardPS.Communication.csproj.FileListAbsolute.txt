@@ -1,5 +1,0 @@
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\bin\Debug\SunGardPS.Communication.dll
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\bin\Debug\SunGardPS.Communication.pdb
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\obj\Debug\SunGardPS.Communication.csprojResolveAssemblyReference.cache
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\obj\Debug\SunGardPS.Communication.dll
-C:\TFS\NaviLinePSJ\Raptor\Dev\Services\Shared\SunGardPS.Communication.Shared\obj\Debug\SunGardPS.Communication.pdb
